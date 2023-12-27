@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom right, green );
+}
+.carousel-item{
+  
+    justify-content: center;
+}
+.card img {
+    display: flex;
+}
+.mybox{
+    box-shadow: 1 5px 10px blue;
+   min-height: 200px;
+   margin: 20px 10px;
+
+}
+.mycard-body{
+    display: flex;
+    margin: 20px;
+}
+.container a :hover{
+   color: green;
+}
+.container a {
+    text-decoration: none;
+    color: green;
+}
+  footer{
+    background-color: black;
+    color: azure;
+    text-align: center;
+  }
+h5 {
+    color: black;
+  }
